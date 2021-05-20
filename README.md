@@ -29,4 +29,5 @@ If you have a better organisation idea, feel free to pull request with this idea
 
 Project Owned by [Yukiko Dev Team](https://github.com/Yukiko-Dev-Team)  
 We are not affiliated with [Altus](https://atlus.com/)  
-Project initially made for [Yukiko](https://Yukiko.app) Discord bot.
+Project initially made for [Yukiko](https://Yukiko.app) Discord bot.  
+Change Logs: [CHANGELOGS.md](https://github.com/Asthriona/Persona-API/blob/master/CHANGELOGS.mg)
