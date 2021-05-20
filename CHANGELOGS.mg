@@ -8,3 +8,7 @@ Initialise the project
 Add: Persona 4 Month 04
 Add: Persona 4 Month 05
 Add: Persona 4 Month 10
+Add: Persona 4 Month 06
+Add: Persona 4 Month 08
+Add: Persona 4 Month 11
+Add: Persona 4 Month 12
