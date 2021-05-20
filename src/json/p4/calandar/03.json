@@ -1,7 +1,7 @@
 {
     "04":{
         "01": {
-            "date": "Wednesday October, 1st",
+            "date": "Wednesday March, 1st",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -9,7 +9,7 @@
             "fusion": "None"
         },
         "02": {
-            "date": "Thursday October, 2nd",
+            "date": "Thursday March, 2nd",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -17,7 +17,7 @@
             "fusion": "None"
         },
         "03": {
-            "date": "Friday October, 3rd",
+            "date": "Friday March, 3rd",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -25,7 +25,7 @@
             "fusion": "None"
         },
         "04": {
-            "date": "Saturday October, 4th",
+            "date": "Saturday March, 4th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -33,7 +33,7 @@
             "fusion": "None"
         },
         "05": {
-            "date": "Sunday October, 5th",
+            "date": "Sunday March, 5th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -41,7 +41,7 @@
             "fusion": "None"
         },
         "06": {
-            "date": "Monday October, 6th",
+            "date": "Monday March, 6th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -49,7 +49,7 @@
             "fusion": "None"
         },
         "07": {
-            "date": "Tuesday October 7th",
+            "date": "Tuesday March 7th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -57,7 +57,7 @@
             "fusion": "None"
         },
         "08": {
-            "date": "Wednesday October, 8th",
+            "date": "Wednesday March, 8th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -65,7 +65,7 @@
             "fusion": "None"
         },
         "09": {
-            "date": "Thursday October, 9th",
+            "date": "Thursday March, 9th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -73,7 +73,7 @@
             "fusion": "None"
         },
         "10": {
-            "date": "Friday October, 10th",
+            "date": "Friday March, 10th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -81,7 +81,7 @@
             "fusion": "None"
         },
         "11": {
-            "date": "Saturday October, 11st",
+            "date": "Saturday March, 11st",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -89,7 +89,7 @@
             "fusion": "None"
         },
         "12": {
-            "date": "Sunday October, 12nd",
+            "date": "Sunday March, 12nd",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -97,7 +97,7 @@
             "fusion": "None"
         },
         "13": {
-            "date": "Monday October, 13rd",
+            "date": "Monday March, 13rd",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -105,7 +105,7 @@
             "fusion": "None"
         },
         "14": {
-            "date": "Tuesday October, 14th",
+            "date": "Tuesday March, 14th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -113,7 +113,7 @@
             "fusion": "None"
         },
         "15": {
-            "date": "Wednesday October, 15th",
+            "date": "Wednesday March, 15th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -121,7 +121,7 @@
             "fusion": "None"
         },
         "16": {
-            "date": "Thursday October, 16th",
+            "date": "Thursday March, 16th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -129,7 +129,7 @@
             "fusion": "None"
         },
         "17": {
-            "date": "Friday October, 17th",
+            "date": "Friday March, 17th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -137,7 +137,7 @@
             "fusion": "None"
         },
         "18": {
-            "date": "Saturday October, 18th",
+            "date": "Saturday March, 18th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -145,7 +145,7 @@
             "fusion": "None"
         },
         "19": {
-            "date": "Sunday October, 19th",
+            "date": "Sunday March, 19th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -153,7 +153,7 @@
             "fusion": "None"
         },
         "20": {
-            "date": "Monday October, 20th",
+            "date": "Monday March, 20th",
             "weather": "Sunny / Rainy",
             "event": {
                 "1": "Only accessible if you got the normal ending.",
@@ -164,7 +164,7 @@
             "fusion": "None"
         },
         "21": {
-            "date": "Tuesday October, 21th",
+            "date": "Tuesday March, 21th",
             "weather": "Sunny",
             "event": {
                 "1": "Last day in Inaba"
@@ -172,7 +172,7 @@
             "fusion": "None"
         },
         "22": {
-            "date": "Wednesday October, 22th",
+            "date": "Wednesday March, 22th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -180,7 +180,7 @@
             "fusion": "None"
         },
         "23": {
-            "date": "Thursday October, 23th",
+            "date": "Thursday March, 23th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -188,7 +188,7 @@
             "fusion": "None"
         },
         "24": {
-            "date": "Friday October, 24th",
+            "date": "Friday March, 24th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -196,7 +196,7 @@
             "fusion": "None"
         },
         "25": {
-            "date": "Saturday October, 25th",
+            "date": "Saturday March, 25th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -204,7 +204,7 @@
             "fusion": "None"
         },
         "26": {
-            "date": "Sunday October, 26th",
+            "date": "Sunday March, 26th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -212,7 +212,7 @@
             "fusion": "None"
         },
         "27": {
-            "date": "Monday October, 27th",
+            "date": "Monday March, 27th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -220,7 +220,7 @@
             "fusion": "None"
         },
         "28": {
-            "date": "Tuesday October, 28th",
+            "date": "Tuesday March, 28th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -228,7 +228,7 @@
             "fusion": "None"
         },
         "29": {
-            "date": "Wednesday October, 29th",
+            "date": "Wednesday March, 29th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -236,7 +236,7 @@
             "fusion": "None"
         },
         "30": {
-            "date": "Thursday October, 30th",
+            "date": "Thursday March, 30th",
             "weather": "None",
             "event": {
                 "1": "None"
@@ -244,7 +244,7 @@
             "fusion": "None"
         },
         "31": {
-            "date": "Friday October, 31th",
+            "date": "Friday March, 31th",
             "weather": "None",
             "event": {
                 "1": "None"

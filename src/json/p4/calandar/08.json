@@ -1,7 +1,7 @@
 {
     "04":{
         "01": {
-            "date": "Monday October, 1st",
+            "date": "Monday August, 1st",
             "weather": "Rainy / Cloudy",
             "event": {
                 "1": "There's a Homerun Bar in the freezer. (No effect)"
@@ -9,7 +9,7 @@
             "fusion": "Bonus Social Link EXP."
         },
         "02": {
-            "date": "Tuesday October, 2nd",
+            "date": "Tuesday August, 2nd",
             "weather": "Sunny",
             "event": {
                 "1": "None"
@@ -17,7 +17,7 @@
             "fusion": "Use the Persona Samuel in fusion = Bonus stats, Skill change."
         },
         "03": {
-            "date": "Wednesday October, 3rd",
+            "date": "Wednesday August, 3rd",
             "weather": "Sunny",
             "event": {
                 "1": "Call from Ai (relationship only)."
@@ -25,7 +25,7 @@
             "fusion": "None"
         },
         "04": {
-            "date": "Thursday October, 4th",
+            "date": "Thursday August, 4th",
             "weather": "Sunny",
             "event": {
                 "1": "You can buy 'Changing Careers' from the bookstore for 1500 yen."
@@ -33,7 +33,7 @@
             "fusion": "Skill change."
         },
         "05": {
-            "date": "Friday October, 5th",
+            "date": "Friday August, 5th",
             "weather": "Sunny",
             "event": {
                 "1": "Naoki Konishi will call you to hang out. (+Hanged Man, +Emperor)"
@@ -41,7 +41,7 @@
             "fusion": "Skill change."
         },
         "06": {
-            "date": "Saturday October, 6th",
+            "date": "Saturday August, 6th",
             "weather": "Rainy",
             "event": {
                 "1": "None"
@@ -49,7 +49,7 @@
             "fusion": "Use Orthrus and Yatagarasu in fusion = Null Exhaust added, Bonus Social Link EXP."
         },
         "07": {
-            "date": "Sunday October 7th",
+            "date": "Sunday August 7th",
             "weather": "Sunny",
             "event": {
                 "1": "Shopping program: Paladin Armor + Longevity Pill x 2 for 20800 yen or Kitchen Knife + Myth-like Sword for 12800 yen."
@@ -57,7 +57,7 @@
             "fusion": "Bonus Social Link EXP."
         },
         "08": {
-            "date": "Monday October, 8th",
+            "date": "Monday August, 8th",
             "weather": "Cloudy / Rainy",
             "event": {
                 "1": "Ai Ebihara will call you to hang out. (+ Moon, + Star, + Magician) If you decline, you still can make Social Link with Chie Satonaka or Yukio Amagi or Eri Minami."
@@ -65,7 +65,7 @@
             "fusion": "None"
         },
         "09": {
-            "date": "Tuesday October, 9th",
+            "date": "Tuesday August, 9th",
             "weather": "Sunny",
             "event": {
                 "1": "Quest 27 available: Acquire 3 Fashionable Dishes. (From the guy in front of the bookstore at Shopping District South)"
@@ -73,7 +73,7 @@
             "fusion": "None"
         },
         "10": {
-            "date": "Wednesday October, 10th",
+            "date": "Wednesday August, 10th",
             "weather": "Sunny",
             "event": {
                 "1": "Kou Ichijo will call you to come to your room. (Obtained 'The O-Cha Way' book, + Strength, + Justice) (If you decline, you still can make Social Link with Yukiko Amagi or Kanji Tatsumi."
@@ -81,7 +81,7 @@
             "fusion": "Bonus Support skill."
         },
         "11": {
-            "date": "Thursday October, 11st",
+            "date": "Thursday August, 11st",
             "weather": "Cloudy / Rainy",
             "event": {
                 "1": "None"
@@ -89,7 +89,7 @@
             "fusion": "Bonus stats."
         },
         "12": {
-            "date": "Friday October, 12nd",
+            "date": "Friday August, 12nd",
             "weather": "Rainy",
             "event": {
                 "1": "Some of the activities in the evening is prohibited.",
@@ -98,7 +98,7 @@
             "fusion": "Bonus stats."
         },
         "13": {
-            "date": "Saturday October, 13rd",
+            "date": "Saturday August, 13rd",
             "weather": "Sunny / Cloudy",
             "event": {
                 "1": "Evening time unavailable."
@@ -106,7 +106,7 @@
             "fusion": "Create a Persona of the Death Arcana = Mediarama added, Bonus Social Link EXP."
         },
         "14": {
-            "date": "Sunday October, 14th",
+            "date": "Sunday August, 14th",
             "weather": "Sunny",
             "event": {
                 "1": "Shopping program: Wooden Bat + Longevity Pill x 2 for 14000 yen or Segaki Rice x 6 + Purifying Water x 4 for 8800 yen.",
@@ -115,7 +115,7 @@
             "fusion": "Bonus stats."
         },
         "15": {
-            "date": "Monday October, 15th",
+            "date": "Monday August, 15th",
             "weather": "Sunny / Cloudy",
             "event": {
                 "1": "Yosuke Hanamura will ask you to help out at Junes till Friday. (Earned 40000 yen, + Chariot, + Magician)"
@@ -123,7 +123,7 @@
             "fusion": "None"
         },
         "16": {
-            "date": "Tuesday October, 16th",
+            "date": "Tuesday August, 16th",
             "weather": "Cloudy / Rainy",
             "event": {
                 "1": "None"
@@ -131,7 +131,7 @@
             "fusion": "None"
         },
         "17": {
-            "date": "Wednesday October, 17th",
+            "date": "Wednesday August, 17th",
             "weather": "Rainy / Cloudy",
             "event": {
                 "1": "None"
@@ -139,7 +139,7 @@
             "fusion": "None"
         },
         "18": {
-            "date": "Thursday October, 18th",
+            "date": "Thursday August, 18th",
             "weather": "Sunny",
             "event": {
                 "1": "None"
@@ -147,7 +147,7 @@
             "fusion": "None"
         },
         "19": {
-            "date": "Friday October, 19th",
+            "date": "Friday August, 19th",
             "weather": "Sunny",
             "event": {
                 "1": "None"
@@ -155,7 +155,7 @@
             "fusion": "None"
         },
         "20": {
-            "date": "Saturday October, 20th",
+            "date": "Saturday August, 20th",
             "weather": "Sunny",
             "event": {
                 "1": "Answer to Nanako Dojima: You look cute in it. (+ Justice)",
@@ -164,7 +164,7 @@
             "fusion": "None"
         },
         "21": {
-            "date": "Sunday October, 21th",
+            "date": "Sunday August, 21th",
             "weather": "Sunny",
             "event": {
                 "1": "Ai Ebihara will call you to hang out (Obtained 'The Divine Way' book)",
@@ -174,7 +174,7 @@
             "fusion": "None"
         },
         "22": {
-            "date": "Monday October, 22th",
+            "date": "Monday August, 22th",
             "weather": "Cloudy / Rainy",
             "event": {
                 "1": "Quest 24 available: Bring him an Eternal Lamp. (From Refreshed old man at the Riverbank of Samegawa flood plain)",
@@ -183,7 +183,7 @@
             "fusion": "Skill Change"
         },
         "23": {
-            "date": "Tuesday October, 23th",
+            "date": "Tuesday August, 23th",
             "weather": "Sunny",
             "event": {
                 "1": "You will be asked to help Nanako Dojima with her homework for the next few nights. (+ Justice)"
@@ -191,7 +191,7 @@
             "fusion": "Skill change."
         },
         "24": {
-            "date": "Wednesday October, 24th",
+            "date": "Wednesday August, 24th",
             "weather": "Sunny",
             "event": {
                 "1": "You can buy 'Man-God' book at the bookstore for 1200 yen.",
@@ -200,7 +200,7 @@
             "fusion": "Bonus Social Link EXP."
         },
         "25": {
-            "date": "Thursday October, 25th",
+            "date": "Thursday August, 25th",
             "weather": "Rainy",
             "event": {
                 "1": "You help Nanako Dojima with her homework in the evening. (+ Chariot, + Justice, + Priestess)"
@@ -208,7 +208,7 @@
             "fusion": "Bonus stats."
         },
         "26": {
-            "date": "Friday October, 26th",
+            "date": "Friday August, 26th",
             "weather": "Cloudy / Rainy",
             "event": {
                 "1": "Chie Satonaka will call you to hang out. (Chariot Rank improved) If you declined, you can still make Social Link with Chie Satonaka, Rise Kujikawa, Eri Minami, Yosuke Hanamura.",
@@ -218,7 +218,7 @@
             "fusion": "Skill change."
         },
         "27": {
-            "date": "Saturday October, 27th",
+            "date": "Saturday August, 27th",
             "weather": "Rainy",
             "event": {
                 "1": "You help Nanako Dojima with her homework in the evening. (+ Emperor, + Lovers, + Justice)."
@@ -226,7 +226,7 @@
             "fusion": "Create the Persona Rangda = Null Ice added."
         },
         "28": {
-            "date": "Sunday October, 28th",
+            "date": "Sunday August, 28th",
             "weather": "Sunny / Cloudy",
             "event": {
                 "1": "Rise Kujikawa will call you to hang out (Lovers Rank improved).",
@@ -237,7 +237,7 @@
             "fusion": "None"
         },
         "29": {
-            "date": "Monday October, 29th",
+            "date": "Monday August, 29th",
             "weather": "Rainy",
             "event": {
                 "1": "You will be working on your homework for the Daytime.",
@@ -247,7 +247,7 @@
             "fusion": "None"
         },
         "30": {
-            "date": "Tuesday October, 30th",
+            "date": "Tuesday August, 30th",
             "weather": "Cloudy / Rainy",
             "event": {
                 "1": "There's a Junes original Shiokara in the fridge. (+ Courage)"
@@ -255,7 +255,7 @@
             "fusion": "Skill change."
         },
         "31": {
-            "date": "Wednesday October, 31th",
+            "date": "Wednesday August, 31th",
             "weather": "Sunny",
             "event": {
                 "1": "All the day time unavailable."
