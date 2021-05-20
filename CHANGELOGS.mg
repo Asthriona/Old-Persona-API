@@ -6,3 +6,4 @@ if there is a (InDev) this is an instable version not availiable yet.
 ## 1.0 (InDev)
 Initialise the project
 ADD: Persona 4 Month 04
+ADD: Persona 4 Month 05
