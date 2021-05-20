@@ -10,7 +10,7 @@ Any help is welcome!
 /api/p3 | Persona 3 | ❌ | ❌ | ❌ | ❌ | ❌ |
 /api/p3 | Persona 3 FES | ❌ | ❌ | ❌ | ❌ | ❌ |
 /api/p3p | Persona 3 Portable | ❌ | ❌ | ❌ | ❌ | ❌ |
-/api/p4 | Persona 4 | 🔁 66% | ❌ | ❌ | ❌ | 🔁 |
+/api/p4 | Persona 4 | 🔁 75% | ❌ | ❌ | ❌ | 🔁 |
 /api/p4g | Persona 4 The Golden | ❌ | ❌ | ❌ | ❌ | ❌ |
 /api/p5 | Persona 5 | ❌ | ❌ | ❌ | ❌ | ❌ |
 /api/p5s | Persona 5 Striker | ❌ | ❌ | ❌ | ❌ | ❌ |
