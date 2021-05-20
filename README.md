@@ -3,18 +3,18 @@ This is a Fanmade project, we list all the infos about the persona Series like c
 Any help is welcome!
 
 ## EndPoint: 
-| Endpoint | Description | Calandar | Persona | Characters | Answer | Status |
-| --- | --- | --- | --- | --- | --- | ---
-/api/p1 | Revelations: Persona | ❌ | ❌ | ❌ | ❌ | ❌ |
-/api/p2 | Persona 2: Innocent Sin | ❌ | ❌ | ❌ | ❌ | ❌ |
-/api/p3 | Persona 3 | ❌ | ❌ | ❌ | ❌ | ❌ |
-/api/p3 | Persona 3 FES | ❌ | ❌ | ❌ | ❌ | ❌ |
-/api/p3p | Persona 3 Portable | ❌ | ❌ | ❌ | ❌ | ❌ |
-/api/p4 | Persona 4 | ✅ | ❌ | ❌ | ❌ | 🔁 |
-/api/p4g | Persona 4 The Golden | ❌ | ❌ | ❌ | ❌ | ❌ |
-/api/p5 | Persona 5 | ❌ | ❌ | ❌ | ❌ | ❌ |
-/api/p5s | Persona 5 Striker | ❌ | ❌ | ❌ | ❌ | ❌ |
-/api/p5r | Persona 5 Royal | ❌ | ❌ | ❌ | ❌ | ❌ | 
+| Endpoint | Description | Calandar | Persona | Characters | Answer | Status | Assigned |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+/api/p1 | Revelations: Persona | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+/api/p2 | Persona 2: Innocent Sin | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+/api/p3 | Persona 3 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+/api/p3 | Persona 3 FES | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+/api/p3p | Persona 3 Portable | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+/api/p4 | Persona 4 | ✅ | ❌ | ❌ | ❌ | 🔁 | ![asthriona](https://cdn.nishikino.xyz/profectFucker/jknUWVv_kJ.jpeg) |
+/api/p4g | Persona 4 The Golden | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+/api/p5 | Persona 5 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+/api/p5s | Persona 5 Striker | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+/api/p5r | Persona 5 Royal | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
   
 Infos:   
 ❌: Not Started Yet  
