@@ -1,3 +1,4 @@
+![](https://asthriona.s3.fr-par.scw.cloud/ShareX/2021/05/yukikoxteamcoolkids.png)
 # Persona API
 This is a Fanmade project, we list all the infos about the persona Series like calandar event, birthday, Characters infos, Persona Infos, etc...
 Any help is welcome!
@@ -27,7 +28,8 @@ If you have a better organisation idea, feel free to pull request with this idea
 
 ## Other Infos
 
-Project Owned by [Yukiko Dev Team](https://github.com/Yukiko-Dev-Team)  
+Project Owned by [Yukiko Dev Team](https://github.com/Yukiko-Dev-Team) and Team Cool Kids  
 We are not affiliated with [Altus](https://atlus.com/)  
 Project initially made for [Yukiko](https://Yukiko.app) Discord bot.  
 Change Logs: [CHANGELOGS.md](https://github.com/Asthriona/Persona-API/blob/master/CHANGELOGS.mg)
+
