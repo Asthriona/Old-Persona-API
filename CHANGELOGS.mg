@@ -17,3 +17,4 @@ Add: Persona 4 Month 03-12
 Add: Persona 4 Month 09
 Add: Persona 4 School answers
 Add: Persona 4 Playable characters
+Add: Persona 4 Listing of every characters
